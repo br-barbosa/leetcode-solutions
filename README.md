@@ -9,9 +9,10 @@ I use this repo to track my progress, improve my problem-solving skills, and bui
 
 ## 📊 Problem Index
 
-| # | Problem | Difficulty | Solution | Topics |
-|---|---------|------------|----------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](easy/two-sum.py) | Array |
+| #   | Problem                                                           | Difficulty | Solution                            | Topics                        |
+| --- | ----------------------------------------------------------------- | ---------- | ----------------------------------- | ----------------------------- |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                 | Easy       | [Python](easy/two-sum.py)           | Array                         |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium     | [Python](medium/add-two-numbers.py) | Linked Lists, Math, Recursion |
 
 _(More coming soon!)_
 
