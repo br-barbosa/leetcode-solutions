@@ -11,7 +11,7 @@ I use this repo to track my progress, improve my problem-solving skills, and bui
 
 | # | Problem | Difficulty | Solution | Topics |
 |---|---------|------------|----------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](easy/two_sum.py) | Array |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](easy/two-sum.py) | Array |
 
 _(More coming soon!)_
 
