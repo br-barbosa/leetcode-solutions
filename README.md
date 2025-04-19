@@ -9,12 +9,11 @@ I use this repo to track my progress, improve my problem-solving skills, and bui
 
 ## 📊 Problem Index
 
-| #   | Problem                                                           | Difficulty | Solution                            | Topics                        |
-| --- | ----------------------------------------------------------------- | ---------- | ----------------------------------- | ----------------------------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                 | Easy       | [Python](easy/two-sum.py)           | Array                         |
-| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium     | [Python](medium/add-two-numbers.py) | Linked Lists, Math, Recursion |
-
-_(More coming soon!)_
+| #   | Problem                                                                                                                         | Difficulty | Solution                                                   | Topics                             |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------- | ---------------------------------- |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy       | [Python](easy/two-sum.py)                                  | Array                              |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium     | [Python](medium/add-two-numbers.py)                        | Linked Lists, Math, Recursion      |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | [Python](longest-substring-without-repeting-characters.py) | Hash Table, String, Sliding Window |
 
 ---
 
