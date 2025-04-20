@@ -27,3 +27,24 @@ class Solution:
                     curr = i - hash[x]
             hash[x] = i
         return max(curr, highest)
+    
+# Afterward, I see that a more traditional application of 
+# sliding window would be cleaner and make for a better code
+# to work on if more was need to be developed on top of this project
+
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        char_index = {}
+        start = 0
+        max_len = 0
+
+        for i, c in enumerate(s):
+            if c in char_index and char_index[c] >= start:
+                # Repeat found, move the start to the right of the last occurrence
+                start = char_index[c] + 1
+            # Update the last seen index of the character
+            char_index[c] = i
+            # Update max length if needed
+            max_len = max(max_len, i - start + 1)
+
+        return max_len
