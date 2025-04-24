@@ -10,6 +10,7 @@ we log the count if higher than previous and adjust the count.
 Time Complexity: O(n)
 Space Complexity: O(n + m)
 """
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         hash = {}

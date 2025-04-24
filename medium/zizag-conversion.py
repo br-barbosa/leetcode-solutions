@@ -10,6 +10,7 @@ Merge all characters into a string.
 Time Complexity: O(n)
 Space Complexity: O(n)
 """
+
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         char = [ [] for _ in range(numRows)]

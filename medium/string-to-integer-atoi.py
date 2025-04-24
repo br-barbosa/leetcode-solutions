@@ -1,3 +1,16 @@
+"""
+Problem: String to Integer (atoi)
+Link: https://leetcode.com/problems/string-to-integer-atoi/
+
+Approach:
+Remove leading spaces and search for sign, excluding null edge case.
+Read all digits while within 32-bit integer capacity.
+Return answer with appropriate sign.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
 class Solution:
     def myAtoi(self, s: str) -> int:
         # Step 1

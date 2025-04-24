@@ -10,11 +10,13 @@ Return the result in linked list format.
 Time Complexity: O(n + m)
 Space Complexity: O(n + m)
 """
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:    
     def getInt(self, node: Optional[ListNode]) -> int:
         power = 0
