@@ -19,6 +19,7 @@ I use this repo to track my progress, improve my problem-solving skills, and bui
 | 7   | [Reverse Integer](https://leetcode.com/problems/palindrome-number/)                                                             | Medium     | [Python](medium/reverse-interger.py)                              | Math                                     |
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)                                                | Medium     | [Python](medium/string-to-integer-atoi.py)                        | String                                   |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy       | [Python](easy/palindrome-number.py)                               | Math                                     |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Easy       | [Python](easy/roman-to-integer.py)                                | Hash Table, Math, String                 |
 
 ---
 
