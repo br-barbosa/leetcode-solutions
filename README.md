@@ -3,23 +3,7 @@
 This repository contains my solutions to LeetCode problems, organized by difficulty.  
 Each solution includes my approach, code, and complexity analysis.
 
-I use this repo to track my progress, improve my problem-solving skills, and build a public portfolio of consistent work.
-
----
-
-## 📊 Problem Index
-
-| #   | Problem                                                                                                                         | Difficulty | Solution                                                          | Topics                                   |
-| --- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- | ---------------------------------------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy       | [Python](easy/two-sum.py)                                         | Array                                    |
-| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium     | [Python](medium/add-two-numbers.py)                               | Linked Lists, Math, Recursion            |
-| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | [Python](medium/longest-substring-without-repeting-characters.py) | Hash Table, String, Sliding Window       |
-| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)                                        | Hard       | [Python](hard/median-of-two-sorted-arrays.py)                     | Array, Binary Search, Divide and Conquer |
-| 6   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           | Medium     | [Python](medium/zizag-conversion.py)                              | String                                   |
-| 7   | [Reverse Integer](https://leetcode.com/problems/palindrome-number/)                                                             | Medium     | [Python](medium/reverse-interger.py)                              | Math                                     |
-| 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)                                                | Medium     | [Python](medium/string-to-integer-atoi.py)                        | String                                   |
-| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy       | [Python](easy/palindrome-number.py)                               | Math                                     |
-| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Easy       | [Python](easy/roman-to-integer.py)                                | Hash Table, Math, String                 |
+I use this repo to track my progress, improve my problem-solving skills, and build a public portfolio of consistent work. | Hash Table, Math, String |
 
 ---
 
@@ -37,3 +21,20 @@ I use this repo to track my progress, improve my problem-solving skills, and bui
 - Python (primary)
 - Markdown for documentation
 - Git for version control
+
+---
+
+## 📊 Problem Index
+
+| #   | Problem                                                                                                                         | Difficulty | Solution                                                          | Topics                                   |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- | ---------------------------------------- |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy       | [Python](easy/two-sum.py)                                         | Array                                    |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium     | [Python](medium/add-two-numbers.py)                               | Linked Lists, Math, Recursion            |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | [Python](medium/longest-substring-without-repeting-characters.py) | Hash Table, String, Sliding Window       |
+| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)                                        | Hard       | [Python](hard/median-of-two-sorted-arrays.py)                     | Array, Binary Search, Divide and Conquer |
+| 6   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           | Medium     | [Python](medium/zizag-conversion.py)                              | String                                   |
+| 7   | [Reverse Integer](https://leetcode.com/problems/palindrome-number/)                                                             | Medium     | [Python](medium/reverse-interger.py)                              | Math                                     |
+| 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)                                                | Medium     | [Python](medium/string-to-integer-atoi.py)                        | String                                   |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy       | [Python](easy/palindrome-number.py)                               | Math                                     |
+| 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                             | Medium     | [Python](medium/integer-to-roman.py)                              | Hash Table, Math, String                 |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Easy       | [Python](easy/roman-to-integer.py)                                |
