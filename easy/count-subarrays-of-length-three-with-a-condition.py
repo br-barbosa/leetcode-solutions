@@ -1,6 +1,6 @@
 """
 Problem: Count Subarrays of Length Three With a Condition
-Link: count-subarrays-of-length-three-with-a-condition
+Link: https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
 
 Approach:
 Run simple check for all elements except first and last.

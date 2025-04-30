@@ -9,7 +9,31 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 """
 
-# First Attempt with a lot of focus on optimization
+class Solution:
+    def countSubarrays(self, nums: List[int], k: int) -> int:
+        n = len(nums)
+        if k > n:
+            return 0
+        
+        max_val = max(nums)
+        max_count = 0
+        answer = 0
+        left = 0
+        for right in range(n):
+            if nums[right] == max_val:
+                max_count += 1
+
+            while max_count >= k:
+                if nums[left] == max_val:
+                    max_count -= 1
+                left += 1
+
+            answer += left 
+        
+        return answer
+
+
+# First Attempt focused on optimization
 class Solution:
     def countSubarrays(self, nums: List[int], k: int) -> int:
         n = len(nums)
