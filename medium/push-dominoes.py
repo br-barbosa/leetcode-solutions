@@ -1,5 +1,15 @@
 """
-https://leetcode.com/problems/push-dominoes
+Problem: Push Dominoes
+Link: https://leetcode.com/problems/push-dominoes
+
+Approach:
+Two-pass approach, where we check the influence of "R"
+dominoes from left to right, which propagates over "."
+and stops at "L". Then, repeat from the other side for "L".
+After the fact, it is a matter of balancing the two forces.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
 """
 class Solution:
     def pushDominoes(self, dominoes: str) -> str:
